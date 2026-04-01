@@ -1,0 +1,14 @@
+# 敏感信息
+config.json
+*.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
+
+# Claude tasks
+claude-tasks/
