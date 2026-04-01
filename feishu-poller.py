@@ -18,7 +18,10 @@ POLL_INTERVAL = 5  # 轮询间隔（秒）
 LOG_FILE = os.path.expanduser("~/.lark-cli/poller.log")
 COMMANDS_FILE = os.path.expanduser("~/.lark-cli/feishu-commands.json")
 LAST_MESSAGE_FILE = os.path.expanduser("~/.lark-cli/last-message-id.txt")
-USER_ID = "ou_28152c1c5a3e7cc57f63a23eecb80abe"  # 接收消息的用户 ID
+
+# 用户 ID 配置（请修改为你的用户 ID）
+# 运行 lark-cli auth status 获取你的 userOpenId
+USER_ID = "ou_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 # 命令映射（飞书消息 → 本地命令）
 COMMANDS = {

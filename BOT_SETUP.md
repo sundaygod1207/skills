@@ -44,13 +44,13 @@ lark-cli config init --new
 
 ### 7. 测试
 ```bash
-# 发送测试消息
-lark-cli im +messages-send --user-id ou_28152c1c5a3e7cc57f63a23eecb80abe --text "测试消息"
+# 发送测试消息（替换为你的用户 ID）
+lark-cli im +messages-send --user-id ou_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx --text "测试消息"
 ```
 
 ## 当前状态
 
-- ✅ User Identity 已登录（Sunday Zhang）
+- ✅ User Identity 已登录
 - ✅ 可以接收消息
 - ❌ 无法发送消息（需要 Bot）
 
