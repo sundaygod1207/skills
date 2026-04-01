@@ -112,6 +112,12 @@ Claude 会执行任务并把结果发回飞书。
 
 - [我把 Claude Code 接入了飞书，上班也能远程控制家里电脑](TODO: 公众号文章链接)
 
+## 文档
+
+- [中文说明书](README_CN.md) - 详细安装和使用指南
+- [English Guide](README_EN.md) - Installation and usage guide
+- [AI 助手指南](INSTALL_GUIDE_FOR_AI.md) - 给 Claude Code/OpenClaw 的安装说明
+
 ## License
 
 MIT
