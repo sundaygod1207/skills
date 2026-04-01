@@ -21,7 +21,7 @@ LAST_MESSAGE_FILE = os.path.expanduser("~/.lark-cli/last-message-id.txt")
 
 # 用户 ID 配置（请修改为你的用户 ID）
 # 运行 lark-cli auth status 获取你的 userOpenId
-USER_ID = "ou_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+USER_ID = "请替换为你的用户 ID（运行 lark-cli auth status 获取）"
 
 # 命令映射（飞书消息 → 本地命令）
 COMMANDS = {

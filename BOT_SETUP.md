@@ -45,7 +45,7 @@ lark-cli config init --new
 ### 7. 测试
 ```bash
 # 发送测试消息（替换为你的用户 ID）
-lark-cli im +messages-send --user-id ou_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx --text "测试消息"
+lark-cli im +messages-send --user-id 请替换为你的用户 ID --text "测试消息"
 ```
 
 ## 当前状态
